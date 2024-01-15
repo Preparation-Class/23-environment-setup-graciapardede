@@ -2,8 +2,11 @@
 
 #include <stdio.h>
 
-int main(char **_argc, int _argv)
+#include <stdio.h>
+
+int main(int _argv, char **_argc)
 {
-    // Show your code here ...
+    printf("Aloha!");
+
     return 0;
 }
